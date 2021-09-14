@@ -1,7 +1,7 @@
 # Inventory-Management-System
 ##Wsahil -  sahilwani1502@gmail.com
 
-This simple repository was created for an internship project.
+This simple repository was created for an ETG internship project of Python, AI & ML.
 
 In this inventory management project i have created an inventory (dataset) of sales of some products in a particular shop.
 
